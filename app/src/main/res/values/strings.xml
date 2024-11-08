@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">lesson_2</string>
+
+    <string name="city_origin">Город отбытия</string>
+    <string name="city_destination">Город прибытия</string>
+
+    <string name="departure_date">Дата отбытия</string>
+    <string name="arrival_date">Дата прибытия</string>
+    <string name="departure_date_description">Введите дату вылета</string>
+    <string name="arrival_date_description">Введите дату прибытия</string>
+
+    <string name="persons_counter">Введите кол-во пассажиров</string>
+    <string name="adult_person">Взрослый</string>
+    <string name="child_person">Ребёнок</string>
+    <string name="newborn_person">Младенец</string>
+
+    <string name="search_btn">ПОИСК</string>
+
+    <string-array name="cities">
+        <item>Irkutsk</item>
+        <item>Bang cock</item>
+        <item>Moscow</item>
+    </string-array>
+</resources>
